@@ -49,3 +49,17 @@ a{
     border: 1px solid rgb(82, 127, 224);
     color: blue;
 }
+.body-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.left-side{
+    width: 40%;
+    height: 100px;
+}
+
+.right-side{
+    width: 40%;
+    background-color: red;
+}
