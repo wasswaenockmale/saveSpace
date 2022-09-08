@@ -2,3 +2,7 @@
     color: blue;
     text-transform: uppercase;
 }
+
+.text-big{
+    font-size: 1.5em;
+}
