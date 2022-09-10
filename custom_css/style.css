@@ -61,5 +61,5 @@ a{
 
 .right-side{
     width: 40%;
-    background-color: red;
+    border: 1px solid black;
 }
