@@ -67,3 +67,10 @@ h1{
     text-transform: capitalize;
     font-size: 2.3em;
 }
+
+@media (max-width:375px){
+    h1{
+        text-transform: capitalize;
+        font: 0.6em;
+    }
+}
