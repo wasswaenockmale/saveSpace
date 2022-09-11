@@ -76,9 +76,20 @@ h1{
 .create-account{
     margin:10px 10px 40px 0px;
 }
-@media (max-width:375px){
-    h1{
-        text-transform: capitalize;
-        font: 0.6em;
-    }
+
+.first-div{
+    width: 50%;
+    height: 100%;
+}
+
+.second-div{
+    background-color: blue;
+    width: 50%;
+    height: 100%;
+}
+
+.third-div{
+    background-color: green;
+    width: 50%;
+    height: 100%;
 }
