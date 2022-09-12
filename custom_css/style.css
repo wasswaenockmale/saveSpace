@@ -62,7 +62,7 @@ a{
 
 .right-side{
     width: 40%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     position: relative;
 }
@@ -80,28 +80,29 @@ h1{
 }
 
 .first-div{
-    width: 50%;
-    height: 70%;
-    background-color: red;
+    width: 90%;
+    height: 80%;
+    /* background-color: red; */
     position: absolute;
+    /* border: 1px solid red; */
     top: 25px;
-    left: 10px;
+    left: 0px;
 }
 
 .second-div{
     background-color: blue;
     width: 50%;
-    height: 60%;
+    height: 40%;
     position: absolute;
-    top: 80px;
-    left: 80px;
+    top: 40%;
+    left: 120px;
 }
 
 .third-div{
-    background-color: green;
+    background-color: rgb(78, 78, 252);
     width: 50%;
-    height: 70%;
+    height: 50%;
     position: absolute;
-    top: 60px;
-    left: 60px;
+    top: 36%;
+    left: 80px;
 }
