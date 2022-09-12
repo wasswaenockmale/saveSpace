@@ -61,8 +61,8 @@ a{
 }
 
 .right-side{
-    width: 40%;
-    /* border: 1px solid black; */
+    width: 55%;
+    border: 1px solid black;
     display: flex;
     position: relative;
 }
