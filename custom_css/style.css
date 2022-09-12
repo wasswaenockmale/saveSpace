@@ -62,7 +62,6 @@ a{
 
 .right-side{
     width: 55%;
-    /* border: 1px solid black; */
     display: flex;
     position: relative;
 }
