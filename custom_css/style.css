@@ -96,6 +96,7 @@ h1{
     position: absolute;
     top: 40%;
     left: 120px;
+    border-radius: 5px;
 }
 
 .third-div{
@@ -103,6 +104,7 @@ h1{
     width: 50%;
     height: 50%;
     position: absolute;
-    top: 36%;
+    top: 36.3%;
     left: 80px;
+    border-radius: 5px;
 }
