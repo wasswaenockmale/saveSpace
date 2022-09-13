@@ -109,21 +109,24 @@ h1{
 }
 
 .section-save{
+    height: 100vh;
     display: flex;
-    margin-top: 20px;
+    margin-top: 5%;
 }
 
 .right-div{
-    width: 50%;
+    width: 30%;
     padding: 20px;
+    height: 60%;
 }
 
 .left-div{
     width: 50%;
+    height: 60%;
     padding: 20px;
 }
 
 .phone-image{
-    width:90%;
-    height: 90%;
+    width:80%;
+    height: 100%;
 }
