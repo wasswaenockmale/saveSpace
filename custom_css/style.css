@@ -130,3 +130,12 @@ h1{
     width:80%;
     height: 100%;
 }
+
+.fix-top{
+    position: fixed;
+    left: 8%;
+}
+
+.nav-dark{
+    background-color: black;
+}
