@@ -110,6 +110,7 @@ h1{
 
 .section-save{
     display: flex;
+    margin-top: 20px;
 }
 
 .right-div{
@@ -120,4 +121,9 @@ h1{
 .left-div{
     width: 50%;
     padding: 20px;
+}
+
+.phone-image{
+    width:90%;
+    height: 90%;
 }
